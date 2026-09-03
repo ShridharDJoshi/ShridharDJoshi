@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020024,50:090979,100:00d4ff&text=Shridhar%20Joshi&fontColor=00F7FF&fontSize=62&font=JetBrains+Mono&animation=fadeIn&fontAlignY=38&desc=Python%20•%20Django%20•%20Full%20Stack%20&descAlignY=58&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020024,50:090979,100:00d4ff&text=Shridhar%20Joshi&fontColor=00F7FF&fontSize=62&font=JetBrains+Mono&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Python+Developer;Django+Full+Stack+Developer;Backend+%26+Web+Development;AI+Enthusiast;Future+Data+Engineering+Explorer;Always+Building+and+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst;Data+Science;Machine+Learning;Python+%26+SQL+Developer;Data+Visualization;Always+Learning+%26+Building+%F0%9F%9A%80"/>
 
 </div>
 
@@ -11,14 +11,16 @@
 # <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="35"/> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-### 👨‍💻 Third Year Engineering Student @ SPPU
 
-<img src="https://img.icons8.com/fluency/24/source-code.png"/> Passionate about **Python & Django Development**  
-<img src="https://img.icons8.com/fluency/24/web-design.png"/> Interested in **Backend & Full Stack Web Development**  
-<img src="https://img.icons8.com/fluency/24/artificial-intelligence.png"/> Exploring **AI Tools & Modern Technologies**  
-<img src="https://img.icons8.com/fluency/24/database.png"/> Learning concepts related to **Data Engineering & Data Handling**  
+### 👨‍💻 Third Year Information Technology Student @ SPPU
+
+<img src="https://img.icons8.com/fluency/24/source-code.png"/> Interested in **Data Analytics & Data Science**  
+<img src="https://img.icons8.com/fluency/24/artificial-intelligence.png"/> Exploring **Machine Learning & Predictive Modeling**  
+<img src="https://img.icons8.com/fluency/24/database.png"/> Working with **Python, SQL & Databases**  
+<img src="https://img.icons8.com/fluency/24/combo-chart.png"/> Creating insights using **Power BI & Data Visualization**  
+<img src="https://img.icons8.com/fluency/24/bar-chart.png"/> Practicing **Data Cleaning, EDA & Statistical Analysis**  
 <img src="https://img.icons8.com/fluency/24/books.png"/> Continuously learning through projects & experimentation  
-<img src="https://img.icons8.com/fluency/24/rocket.png"/> Focused on improving development & problem-solving skills  
+<img src="https://img.icons8.com/fluency/24/rocket.png"/> Focused on solving real-world problems using data  
 
 <br><br><br>
 
@@ -28,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,cpp,mysql,html,css,js,git,github,vscode,docker,jupyter&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter,vscode&theme=dark"/>
 
 </div>
 
@@ -36,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Current+Tech+Stack&align=center&titleAlign=center&lineCount=3&theme=tokyonight&line1=python,Python,3776AB;django,Django,092E20;docker,Docker,2496ED;jupyter,Jupyter,F37626;&line2=mysql,MySQL,4479A1;cpp,C++,00599C;git,Git,F05032;github,GitHub,FFFFFF;&line3=html5,HTML5,E34F26;css3,CSS3,1572B6;javascript,JavaScript,F7DF1E;vscode,VSCode,007ACC;"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20Science%20%26%20Analytics%20Stack&align=center&titleAlign=center&lineCount=4&theme=tokyonight&line1=python,Python,3776AB;pandas,Pandas,150458;numpy,NumPy,013243;sklearn,Scikit-learn,F7931E;&line2=mysql,MySQL,4479A1;sqlite,SQLite,003B57;powerbi,Power%20BI,F2C811;excel,Excel,217346;&line3=matplotlib,Matplotlib,11557C;seaborn,Seaborn,4C72B0;git,Git,F05032;github,GitHub,FFFFFF;&line4=jupyter,Jupyter,F37626;vscode,VSCode,007ACC;opencv,OpenCV,5C3EE8;"/>
 
 </div>
 
@@ -48,13 +50,14 @@
 
 <table>
 <tr>
+
 <td align="center" width="320">
 
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-backend-web-development-flaticons-flat-flat-icons.png"/>
+<img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
 
-### Backend Development
+### Data Analytics
 
-Building scalable applications using Django, APIs, and Python.
+Working with Python, SQL, Pandas, Power BI and Excel to clean, analyze and visualize data.
 
 </td>
 
@@ -62,9 +65,9 @@ Building scalable applications using Django, APIs, and Python.
 
 <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
 
-### AI & Modern Tools
+### Machine Learning
 
-Exploring AI tools and modern development workflows.
+Building predictive models using Scikit-learn and learning data preprocessing, feature engineering and model evaluation.
 
 </td>
 
@@ -72,13 +75,37 @@ Exploring AI tools and modern development workflows.
 
 <img src="https://img.icons8.com/color/96/database.png"/>
 
-### Data Engineering Journey
+### Data Science
 
-Learning databases, data pipelines, Docker, and data-related technologies.
+Exploring EDA, statistics, predictive modeling and real-world data-driven solutions.
 
 </td>
+
 </tr>
 </table>
+
+</div>
+
+---
+
+# <img src="https://img.icons8.com/fluency/48/code.png" width="35"/> What I Work With
+
+<div align="center">
+
+### 🐍 Python
+Data analysis, preprocessing and machine learning
+
+### 🗄️ SQL
+Data querying, filtering, aggregation and database analysis
+
+### 📊 Data Visualization
+Power BI, Matplotlib, Seaborn and Excel
+
+### 🤖 Machine Learning
+Regression, Classification, Predictive Modeling and Model Evaluation
+
+### 📈 Data Analysis
+Pandas, NumPy, Data Cleaning and Exploratory Data Analysis
 
 </div>
 
@@ -106,6 +133,6 @@ Learning databases, data pipelines, Docker, and data-related technologies.
 
 <br><br>
 
-### ⚡ Code • Learn • Build • Evolve ⚡
+### ⚡ Analyze • Learn • Build • Evolve ⚡
 
 </div>
