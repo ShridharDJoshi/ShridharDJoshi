@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 Third Year Information Technology Student @ SPPU
+### 👨‍💻 Final Year Information Technology Engineering Student @ SPPU
 
 <img src="https://img.icons8.com/fluency/24/source-code.png"/> Interested in **Data Analytics & Data Science**  
 <img src="https://img.icons8.com/fluency/24/artificial-intelligence.png"/> Exploring **Machine Learning & Predictive Modeling**  
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,mongodb,vscode&theme=dark"/>
 
 </div>
 
